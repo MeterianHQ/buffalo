@@ -1,5 +1,0 @@
-- name: Meterian Scanner
-  uses: MeterianHQ/meterian-github-action@v1.0.8
-  with:
-    # Meterian client parameters
-    cli_args: --flags:env=qa --debug --report-console
